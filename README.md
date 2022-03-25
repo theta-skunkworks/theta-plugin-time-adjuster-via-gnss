@@ -49,11 +49,11 @@ adb reboot
 # 5. How to Use
 
 1. Turn on the THETA.
-2. After displaying "plug-in selection screen", tap "GNSS Time Adjuster" to start this plug-in.
+2. After displaying "plug-in selection screen", tap "Time Adjuster via GNSS" to start this plug-in.
 
 
 # 6. History
-* ver.1.0.0 (2022/03/23): Initial version.
+* ver.1.0.0 (2022/03/25): Initial version.
 
 ---
 

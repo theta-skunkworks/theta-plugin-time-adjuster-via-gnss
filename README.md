@@ -11,7 +11,7 @@ If you press the "START ADJUSTMENT" button in a place where radio waves cannot b
 If you continue to be unable to receive radio waves, you can cancel the reserved adjustment status by pressing the "STOP ADJUSTMENT" button.
 
 
-[important point]
+[NOTE]
 
 - Time adjustment using GNSS can be performed only when this plug-in is running. It doesn't work in the background.
 - To set the time with this plug-in, check that the following two settings are valid from the menu UI.<br>Check Point 1 : "position information addition function" is On.<br>Check Point 2 : "Date / time setting"-> "Auto" is On.

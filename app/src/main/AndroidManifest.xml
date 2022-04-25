@@ -8,8 +8,8 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
 
     <uses-feature android:name="com.theta360.receptor.x"  android:required="true" />
-    <uses-feature android:name="com.theta360.receptor.z1" android:required="true" />
-    <uses-feature android:name="com.theta360.receptor.v"  android:required="true" />
+    <uses-feature android:name="com.theta360.receptor.z1" android:required="false" />
+    <uses-feature android:name="com.theta360.receptor.v"  android:required="false" />
 
     <application
         android:allowBackup="false"

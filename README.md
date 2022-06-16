@@ -22,9 +22,9 @@ If you continue to be unable to receive radio waves, you can cancel the reserved
 
 > You agree to comply with all applicable export and import laws and regulations applicable to the jurisdiction in which the Software was obtained and in which it is used. Without limiting the foregoing, in connection with use of the Software, you shall not export or re-export the Software  into any U.S. embargoed countries (currently including, but necessarily limited to, Crimea  Region of Ukraine, Cuba, Iran, North Korea, Sudan and Syria) or  to anyone on the U.S. Treasury Departmentﾂ’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Personﾂ’s List or Entity List. By using the Software, you represent and warrant that you are not located in any such country or on any such list. You also agree that you will not use the Software for any purposes prohibited by any applicable laws, including, without limitation, the development, design, manufacture or production of missiles, nuclear, chemical or biological weapons.
 
-By using the Voice Shutter plug-in, you are agreeing to the above and the license terms, [LICENSE.txt](LICENSE.txt).
+By using the Time Adjuster via GNSS plug-in, you are agreeing to the above and the license terms, [LICENSE.txt](LICENSE.txt).
 
-Copyright &copy; 2018 Ricoh Company, Ltd.
+Copyright &copy; 2022 Ricoh Company, Ltd.
 
 # 3. Development Environment
 

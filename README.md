@@ -1,8 +1,11 @@
 # Time Adjuster via GNSS
 
-Version: 1.0.0
+より詳しい日本語の説明は[こちら](https://qiita.com/KA-2/items/7b27979ebeacb86b2295)。<br>
+[Click here](https://qiita.com/KA-2/items/7b27979ebeacb86b2295) for a more detailed explanation in Japanese.
 
 # 1. Overview
+
+![screenshot](./img/screenshot.png)
 
 When you press the "START ADJUSTMENT" button in a place where you can receive radio waves emitted from the Global Navigation Satellite System(GNSS), the time of the camera will be adjusted.
 

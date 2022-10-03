@@ -5,7 +5,7 @@
 
 # 1. Overview
 
-![screenshot](./img/screenshot.png)
+![screenshot](img/screenshot.png)
 
 When you press the "START ADJUSTMENT" button in a place where you can receive radio waves emitted from the Global Navigation Satellite System(GNSS), the time of the camera will be adjusted.
 
